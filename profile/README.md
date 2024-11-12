@@ -12,6 +12,6 @@ DATA CELLAR aims to create an energy dataspace that will support the creation, d
 
 ## About the Connector
 
-Connectors are a key part of data spaces, and Data Cellar is no exception. The connector used by Data Cellar is based on the Eclipse Dataspace Components Connector and is hosted in a separate repository outside this organisation:
+Connectors are a key part of data spaces, and Data Cellar is no exception. The connector used by Data Cellar is based on the [Eclipse Dataspace Components](https://github.com/eclipse-edc) Connector and is hosted in a separate repository outside this organisation:
 
 [fundacionctic/connector-building-blocks](https://github.com/fundacionctic/connector-building-blocks)
