@@ -8,7 +8,7 @@ DATA CELLAR aims to create an energy dataspace that will support the creation, d
 * Implement privacy and cybersecurity-by-design measures according to GDPR & national data handling regulations and security standards.
 * Provide Access to AI models and data-driven energy services by making use of the stored and exchanged data, supporting the energy transition.
 * Create and sustain a highly engaged data sharing ecosystem of EC data providers through a DLT-based open Marketplace.
-* Evaluate DATA CELLAR novel business models upon real Energy Community use cases and collaboration with other relevant Eu on-going initiatives participating in BRIDGE to facilitate interoperability testing and demonstration.
+* Evaluate DATA CELLAR novel business models upon real Energy Community use cases and collaboration with other relevant EU on-going initiatives participating in BRIDGE to facilitate interoperability testing and demonstration.
 
 ## About the Connector
 
