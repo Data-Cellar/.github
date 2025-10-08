@@ -15,3 +15,9 @@ DATA CELLAR aims to create an energy dataspace that will support the creation, d
 Connectors are a key part of data spaces, and Data Cellar is no exception. The connector used by Data Cellar is based on the [Eclipse Dataspace Components](https://github.com/eclipse-edc) Connector and is hosted in a separate repository outside this organisation:
 
 [fundacionctic/connector-building-blocks](https://github.com/fundacionctic/connector-building-blocks)
+
+## Status of the Validation Case Connectors
+
+The Validation Cases (VCs) are the main data sources for Data Cellar. They represent Local Energy Communities (LECs) and other energy installations that serve as the primary demonstration sites and key participants in the Data Cellar data space. The list below provides an updated overview of the status of selected VC data space connectors:
+
+![Data Cellar CTIC-FAEN Connector](https://healthchecks.io/b/3/54554f9e-d1d8-4b61-8683-91051fac904d.svg)
