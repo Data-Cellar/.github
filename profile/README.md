@@ -20,4 +20,7 @@ Connectors are a key part of data spaces, and Data Cellar is no exception. The c
 
 The Validation Cases (VCs) are the main data sources for Data Cellar. They represent Local Energy Communities (LECs) and other energy installations that serve as the primary demonstration sites and key participants in the Data Cellar data space. The list below provides an updated overview of the status of selected VC data space connectors:
 
-![Data Cellar CTIC-FAEN Connector](https://healthchecks.io/b/3/54554f9e-d1d8-4b61-8683-91051fac904d.svg)
+| Validation Case | Status |
+| --- | --- |
+| [FAEN Asturias](https://datacellarproject.eu/cases/faen/) | ![Data Cellar CTIC-FAEN Connector](https://healthchecks.io/b/2/54554f9e-d1d8-4b61-8683-91051fac904d.svg) |
+| [CFOAT Aran Islands](https://datacellarproject.eu/cases/cfoat-aran-islands/) | ![Data Cellar CFOAT Connector](https://healthchecks.io/b/2/66a4c49a-f075-4800-8932-1c95d44d1781.svg) |
